@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **MSc in Data and Computational Science** at University College Dublin
-- 💼 Previously **Associate Software Engineer at Deloitte USI** — data & analytics projects in Mumbai
+- 💼 Previously **Associate Software Engineer at Deloitte USI** — Data & Analytics, Mumbai (3 years)
 - 🔭 Experienced in **Python, R, SQL** and building ML models, data pipelines & BI dashboards
 - 🌱 Currently exploring **Bayesian modelling, deep learning and MLOps**
 - 📍 Based in **Dublin, Ireland** — open to Data Science / Analyst internships & graduate roles
@@ -32,6 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 **Libraries & Frameworks**
@@ -41,6 +43,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **BI & Visualisation**
 
@@ -50,8 +53,10 @@
 **Cloud & Tools**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
@@ -59,24 +64,27 @@
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 01 | 🍷 Bayesian Wine Analysis | Compared linear regression models on the Italian wines dataset using Bayesian inference | R, Stan, Quarto |
-| 02 | 🧠 Human Activity Recognition | 1D CNN for HAR achieving ~99.6% test accuracy on smartphone sensor data | R, Keras, CNN |
-| 03 | 🌍 Deprivation Index Analysis | Clustering, LDA/QDA, PCA & PCR on the Pobal HP Deprivation Index dataset | R, Multivariate Stats |
-| 04 | 🎬 Movie Review Database | Rotten Tomatoes-style relational database with ER diagram | SQL, PostgreSQL, LaTeX |
-| 05 | 🔍 Job Scraper | Automated scraper to track Data Science roles across Dublin job boards | Python, python-jobspy |
+| 01 | 📊 Cost of Living & Inflation Tracker | Dashboard analysing cost-of-living trends across regions using multi-source datasets; applied NLP to extract insights from news articles and policy documents | Python, NLP, LLMs, Power BI, EDA |
+| 02 | 🍷 Bayesian Wine Analysis | Compared linear regression models on the Italian wines dataset using Bayesian inference | R, Stan, Quarto |
+| 03 | 🧠 Human Activity Recognition | 1D CNN for HAR achieving ~99.6% test accuracy on smartphone sensor data | R, Keras, CNN |
+| 04 | 🏕️ YelpCamp | Full-stack campground platform with CRUD functionality, Mapbox geolocation and MongoDB | JavaScript, REST APIs, Mapbox, MongoDB |
 
 ---
 
 ### 💼 Experience
 
-**Associate Software Engineer — Deloitte USI** *(Mumbai, until Aug 2025)*
-> Worked on data and analytics projects for enterprise clients as part of Deloitte's technology consulting practice.
-> Developed and maintained data pipelines and reporting solutions using SQL and Python.
-> Collaborated with cross-functional teams to deliver insights and BI dashboards using Power BI and Tableau.
-> Contributed to Azure-based cloud data workflows and internal tooling.
+**Associate Software Engineer – Data & Analytics — Deloitte USI** *(Mumbai, Jul 2022 – Aug 2025)*
+> Built a data collection and analysis platform using .NET and JavaScript for post-divestiture financial scenario modelling.
+> Developed automated backend data workflows (Azure Web Jobs, email automation, CIAM API integrations), reducing manual processing time by 40%.
+> Ensured reliable SQL Server data operations and maintained data integrity across multi-region deployments.
+> Led migration to AngularJS, modernizing front-end architecture for improved scalability and performance.
+> Collaborated with Business Analyst teams in the US and Netherlands to deliver feature releases on schedule.
 
-**Sales Assistant — Nourish** *(Leopardstown, Dublin — 2026–present)*
-> Part-time retail role focused on customer engagement and product knowledge in a health & wellness environment.
+**Front-End Developer Intern — Kritexo** *(Mumbai, Nov 2021 – Jun 2022)*
+> Implemented frontend interfaces for 3 NFT generation websites using HTML, CSS and ReactJS from Figma/PSD designs, contributing to sales of over 20,000 unique NFTs.
+
+**Front-End Developer Intern — Shunya Gyaan IT Consultancy** *(Mumbai, May 2021 – Jun 2021)*
+> Led development and optimisation of the company website, implementing responsive design and integrating user analytics for improved engagement.
 
 ---
 
@@ -92,7 +100,7 @@
 ### 🎯 Positions of Responsibility
 
 - ⚽ **Inter-College Football Tournament** — Represented UCD and won the tournament
-- 📊 **MSc Projects** — Bayesian Analysis, Deep Learning, Multivariate Statistics, Database Systems, Statistical ML
+- 📊 **MSc Projects** — Machine Learning & AI, Bayesian Analysis, Deep Learning, Statistical Modelling, Multivariate Analysis
 
 ---
 
