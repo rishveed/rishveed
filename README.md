@@ -64,9 +64,8 @@
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
 | 01 | 🧠 [Document Intelligence Platform](https://github.com/rishveed/doc-intelligence) | Local RAG platform to upload PDF/TXT documents and query them in plain English — fully local, no API keys required | Python, FastAPI, LangChain, ChromaDB, PostgreSQL, Docker, Llama 3.2 |
-| 02 | 🍷 Bayesian Wine Analysis | Compared linear regression models on the Italian wines dataset using Bayesian inference | R, Stan, Quarto |
+| 02 | 🏕️ [YelpCamp](https://github.com/rishveed/yelpcamp) | Full-stack campground platform with CRUD functionality, Mapbox geolocation and MongoDB | JavaScript, REST APIs, Mapbox, MongoDB |
 | 03 | 🧠 Human Activity Recognition | 1D CNN for HAR achieving ~99.6% test accuracy on smartphone sensor data | R, Keras, CNN |
-| 04 | 🏕️ [YelpCamp](https://github.com/rishveed/yelpcamp) | Full-stack campground platform with CRUD functionality, Mapbox geolocation and MongoDB | JavaScript, REST APIs, Mapbox, MongoDB |
 
 ---
 
@@ -84,15 +83,6 @@
 
 **Front-End Developer Intern — Shunya Gyaan IT Consultancy** *(Mumbai, May 2021 – Jun 2021)*
 > Led development and optimisation of the company website, implementing responsive design and integrating user analytics for improved engagement.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishveed&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishveed&layout=compact&theme=tokyonight" width="48%"/>
-</p>
 
 ---
 
