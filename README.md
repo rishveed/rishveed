@@ -63,10 +63,10 @@
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 01 | 📊 Cost of Living & Inflation Tracker | Dashboard analysing cost-of-living trends across regions using multi-source datasets; applied NLP to extract insights from news articles and policy documents | Python, NLP, LLMs, Power BI, EDA |
+| 01 | 🧠 [Document Intelligence Platform](https://github.com/rishveed/doc-intelligence) | Local RAG platform to upload PDF/TXT documents and query them in plain English — fully local, no API keys required | Python, FastAPI, LangChain, ChromaDB, PostgreSQL, Docker, Llama 3.2 |
 | 02 | 🍷 Bayesian Wine Analysis | Compared linear regression models on the Italian wines dataset using Bayesian inference | R, Stan, Quarto |
 | 03 | 🧠 Human Activity Recognition | 1D CNN for HAR achieving ~99.6% test accuracy on smartphone sensor data | R, Keras, CNN |
-| 04 | 🏕️ YelpCamp | Full-stack campground platform with CRUD functionality, Mapbox geolocation and MongoDB | JavaScript, REST APIs, Mapbox, MongoDB |
+| 04 | 🏕️ [YelpCamp](https://github.com/rishveed/yelpcamp) | Full-stack campground platform with CRUD functionality, Mapbox geolocation and MongoDB | JavaScript, REST APIs, Mapbox, MongoDB |
 
 ---
 
